@@ -1,0 +1,29 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Maven target folder
+target/
+
+# IntelliJ IDEA files (if used)
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Spring Boot specific
+spring-boot-devtools.jar
+
+# Others
+*.class
